@@ -1,0 +1,11 @@
+Sign in
+    - Firebase Authentication
+    - Once logged in -> Chat box
+
+Chat box  
+    - Send messages
+    - Like a messages or have different futures to put on a message
+    - send pictures
+
+React Router 
+    - To go from Log in page to Chat box
